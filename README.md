@@ -28,20 +28,6 @@ Format: CSV
 Rows: ~10,000+
 Columns: 15
 Source: Public dataset (U.S. Census / Data.gov)
-⚙️ Installation & Setup
-1. Clone the repository
-git clone https://github.com/your-username/mental-health-eda-python.git
-cd mental-health-eda-python
-
-2. Install required libraries
-pip install pandas numpy matplotlib seaborn
-
-3. Add dataset
-Download the dataset
-Place it in your project folder
-Update the file path in the code if needed
-▶️ How to Run
-python your_script_name.py
 
 📊 Sample Outputs
 📈 Trends of mental health indicators over time
